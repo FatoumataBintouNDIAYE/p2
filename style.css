@@ -106,6 +106,34 @@ button{
     background-color: black;
     color: white;
 }
-.bra{
-    
+h1{
+    text-align: center;
+    background-color: red;
+    font-weight: bold;
+    margin-top: 6%;
+    color: white;
+}
+.carre{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 1px;
+}
+#sam{
+    text-align: center;
+    color: blue;
+}fieldset{
+    width: 50vh;
+    height:50vh;
+    margin-top: 6vh;
+    margin-left: 05vh;
+}
+#SQA{
+    text-align: center;
+}
+footer{
+    background-color:red;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 4vh;
 }
